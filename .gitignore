@@ -1,0 +1,9 @@
+/README.md
+/__pycache__
+/data
+/data_utils.py
+/deepconn_tf.py
+/main.ipynb
+/model.png
+/requirements.txt
+/utils
